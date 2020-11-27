@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nec-quotes/static/css/main.1973e987.chunk.css",
+    "main.js": "/nec-quotes/static/js/main.376993a2.chunk.js",
+    "main.js.map": "/nec-quotes/static/js/main.376993a2.chunk.js.map",
+    "runtime-main.js": "/nec-quotes/static/js/runtime-main.49c23c53.js",
+    "runtime-main.js.map": "/nec-quotes/static/js/runtime-main.49c23c53.js.map",
+    "static/js/2.a639c37f.chunk.js": "/nec-quotes/static/js/2.a639c37f.chunk.js",
+    "static/js/2.a639c37f.chunk.js.map": "/nec-quotes/static/js/2.a639c37f.chunk.js.map",
+    "index.html": "/nec-quotes/index.html",
+    "static/css/main.1973e987.chunk.css.map": "/nec-quotes/static/css/main.1973e987.chunk.css.map",
+    "static/js/2.a639c37f.chunk.js.LICENSE.txt": "/nec-quotes/static/js/2.a639c37f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49c23c53.js",
+    "static/js/2.a639c37f.chunk.js",
+    "static/css/main.1973e987.chunk.css",
+    "static/js/main.376993a2.chunk.js"
+  ]
+}
