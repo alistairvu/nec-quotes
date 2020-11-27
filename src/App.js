@@ -3,7 +3,7 @@ import useQuote from "./useQuote"
 import QuoteDisplay from "./QuoteDisplay"
 
 const App = () => {
-  const [click, setClick] = useState(0)
+  const [click, setClick] = useState(false)
   const [quote, author, isLoaded] = useQuote(click)
 
   if (isLoaded) {
@@ -11,7 +11,7 @@ const App = () => {
       <QuoteDisplay
         quote={quote}
         author={author}
-        onClick={() => setClick((prev) => prev + 1)}
+        onClick={() => setClick((prev) => !prev)}
       />
     )
   } else {

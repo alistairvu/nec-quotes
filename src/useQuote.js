@@ -24,7 +24,7 @@ const useQuotes = (click) => {
     getQuote()
   }, [click])
 
-  return [quote, author, isLoaded]
+  return [quote, author, isLoaded, setIsLoaded]
 }
 
 export default useQuotes
